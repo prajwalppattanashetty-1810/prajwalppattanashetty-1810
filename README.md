@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Prajwal P 
 
-<!--
-**prajwalppattanashetty-1810/prajwalppattanashetty-1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student at JSS Science and Technology University.
 
-Here are some ideas to get you started:
+I'm interested in Artificial Intelligence, Machine Learning, and building practical technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Continuously learning programming and development.
+- Interested in solving real-world problems through technology.
+- Exploring AI-powered applications and full-stack projects.
+- Interested in hackathons and collaborative projects.
+
+### Technical Skills
+- Languages: C, C++, Python, JavaScript
+- Web: HTML, CSS, React
+- Backend: Python, FastAPI
+- Database: SQL, SQLite
+- Tools: Git, GitHub
+
+### Projects
+- **AI Resume Screening & Job Recommendation System** — AI-powered resume analysis and job recommendations.
+- **Calculator** — A basic calculator application.
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/prajwal-p-5b4870389/
+- GitHub: https://github.com/prajwalppattanashetty-1810
