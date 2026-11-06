@@ -19,7 +19,7 @@ I'm interested in Artificial Intelligence, Machine Learning, and building practi
 
 ### Projects
 - **AI Resume Screening & Job Recommendation System** — AI-powered resume analysis and job recommendations.
-
+- **DocuMind-AI**- AI-powered document intelligence platform that extracts, analyzes, summarizes, and answers questions from uploaded documents.
 
 ### Connect With Me
 - LinkedIn: https://www.linkedin.com/in/prajwal-p-5b4870389/
